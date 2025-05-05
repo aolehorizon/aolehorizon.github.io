@@ -1,0 +1,68 @@
+PyCharm Community Edition 2023.1.1
+python31
+Clash for Windows.exe
+Dev-C++
+EZCast Lite
+Firefox
+Chrome
+HD Tune Pro
+Koodo Reader
+Minecraft
+MuseScore 3
+Oracle VirtualBox
+phpstudy_pro
+QQ影音
+Reflector 4
+Steam
+VScode
+VMware Workstation Pro
+WindTerm
+Xshell
+Xftp
+爱奇艺万能联播
+百度网盘
+哔哩哔哩
+夸克网盘
+欧路词典
+搜狗高速浏览器
+7-zip
+PS
+PR
+Dropbox
+eudic_win
+ffmpeg
+IntelliJ IDEA Community Edition 2024.3.5
+IrfanView
+nodejs
+Obsidian
+OpenFrp
+PotPlayer
+VLC
+qBittorrent
+QQMusic
+Sublime Text
+Telegram Desktop
+Typora
+UltraISO
+WeChat
+WeMeet
+学而思培优
+希望优课
+HMCL-3.6.12
+几何画板5.0最强中文版
+ggmorse
+Blockbench_4.12.4_portable
+0ad-0.27.0-win32
+WPS
+Sway
+Adobe Acrobat
+微信
+QQ
+SketchBook
+网易云音乐
+QQ音乐
+USB_Burning_Tool
+Connectify Hotspot 2018
+Snipaste.exe
+balenaEtcher
+Passware Kit Forensic 2022 v1 (64-bit)
